@@ -34,7 +34,7 @@ site_author = "Alec Hoyland & Mark Jenne"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2026 The authors
+Copyright &copy; 2026 Jaxon AI, Inc. All rights reserved.
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -116,7 +116,7 @@ nav = [
 # - https://zensical.org/docs/setup/logo-and-icons/#favicon
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
-#favicon = "images/favicon.png"
+favicon = "images/favicon.png"
 
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
@@ -323,8 +323,11 @@ toggle.name = "Switch to light mode"
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
-#[[project.extra.social]]
-#icon = "fontawesome/brands/github"
-#link = "https://github.com/user/repo"
+[[project.extra.social]]
+icon = "fontawesome/brands/linkedin"
+link = "https://www.linkedin.com/company/jaxon"
+name = "Jaxon on LinkedIn"
 
-
+[[project.extra.social]]
+icon = "fontawesome/brands/youtube"
+link = "https://www.youtube.com/@jaxonai"
