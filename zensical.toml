@@ -117,6 +117,7 @@ nav = [
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
 favicon = "images/favicon.png"
+logo = "images/favicon.png"
 
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
@@ -317,8 +318,8 @@ toggle.name = "Switch to light mode"
 # - https://zensical.org/docs/authoring/icons-emojis/#search
 # ----------------------------------------------------------------------------
 #[project.theme.icon]
-#logo = "lucide/smile"
-#repo = "lucide/smile"
+#logo = "material/library"
+#repo = "fontawesome/brands/github"
 
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.

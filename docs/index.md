@@ -1,3 +1,6 @@
+
+![AISL Logo](images/logo.png)
+
 # Introduction
 
 AISL (AI Specification Language) is a domain-specific language for specifying and
